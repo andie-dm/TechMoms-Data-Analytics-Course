@@ -51,7 +51,7 @@ _Est. Time to Complete: (20 mins)_
 
 In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
