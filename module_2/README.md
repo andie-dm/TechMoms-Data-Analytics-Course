@@ -6,7 +6,10 @@ _Edit the markdown file with an x in the checkbox when complete, then commit cha
 
 - [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
 - [ ] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Overview, Outcomes, and Video Lessons below
+
+ '***'I could'nt make a copy of the google doc checklist as was unavailable.'***' 
+      
+- [x] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -59,7 +62,7 @@ _Est. Time to Complete: (30 mins)_
 
 This section introduces essential functions and formulas in Excel and Google Sheets that are crucial for data manipulation and analysis. Students will learn how to use functions such as SUM, AVERAGE, COUNT, AND IF statements. By the end of this section, students will be comfortable using these tools to perform calculations and automate repetitive tasks.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 
 ---
 
