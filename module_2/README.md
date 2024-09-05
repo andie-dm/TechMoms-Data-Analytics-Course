@@ -32,10 +32,10 @@ Video examples in the section are in Excel and Assignment #1 will be shown in Go
 
 ## Learning Outcomes:  
 
-1)  Data cleaning 
+1) Data cleaning 
 2) Basic functions and formulas
 3) Creating pivot tables
-4)  Creating charts
+4) Creating charts
 5) Creating a spreadsheet dashboard 
 
 ## Video Lessons - complete by Wednesday, September 4th
