@@ -1,5 +1,16 @@
 # Module 2: Excel and Google Sheets 
 
+### Do Before Class:  
+
+_Edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+- [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
+- [ ] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
+
+ '***'I could'nt make a copy of the google doc checklist as was unavailable.'***' 
+      
+- [x] Overview, Outcomes, and Video Lessons below
+
 ## Overview:
 
 This section serves as a comprehensive introduction to Excel and Google Sheets, two of the most widely used tools in data analytics. Designed for beginners, this module will guide students through the basics of these powerful spreadsheet applications, providing a solid foundation for data manipulation, analysis, and visualization.
@@ -21,15 +32,17 @@ Video examples in the section are in Excel and Assignment #1 will be shown in Go
 
 ## Learning Outcomes:  
 
-1)  Data cleaning 
+1) Data cleaning 
 2) Basic functions and formulas
 3) Creating pivot tables
-4)  Creating charts
+4) Creating charts
 5) Creating a spreadsheet dashboard 
 
 ## Video Lessons - complete by Wednesday, September 4th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
+
+>_Tip: Make timestamped comments as you watch—it’s like the video version of writing notes in the margins of a book._
 
 _Estimated total time to complete: 4 hours_
 
@@ -41,7 +54,7 @@ _Est. Time to Complete: (20 mins)_
 
 In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=VzYJ0MCf5Uj7P-2G&t=22498) and mark when complete
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
@@ -49,7 +62,7 @@ _Est. Time to Complete: (30 mins)_
 
 This section introduces essential functions and formulas in Excel and Google Sheets that are crucial for data manipulation and analysis. Students will learn how to use functions such as SUM, AVERAGE, COUNT, AND IF statements. By the end of this section, students will be comfortable using these tools to perform calculations and automate repetitive tasks.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 
 ---
 
@@ -59,7 +72,11 @@ _Est. Time to Complete: (15 mins)_
 
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete ***(OLD VERSION)***
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
+- [x] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
+- [x] Complete the hands-on activity
+
 
 ---
 
@@ -69,7 +86,8 @@ _Est. Time to Complete: (15 mins)_
 
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+      
 
 ---
 
@@ -79,7 +97,21 @@ _Est. Time to Complete: (45 mins)_
 
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete
+- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=15881) and mark when complete ***OLD VERSION***
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
+- [x] Complete the hands-on activity
+
+----
+
+## Wednesday, September 4th - In Class Agenda: 
+
+1) Review Video Lessons
+2) Demo & Tutorial for Assignment #1
+3) Q&A 
+
+----
 
 ## Assignment #1 - complete by Saturday, September 7th
 
@@ -89,7 +121,7 @@ _Estimated Time to Complete: 6 hours_
 
 <img width="1552" alt="Screenshot 2024-07-28 at 2 16 17 AM" src="https://github.com/user-attachments/assets/7f6d2d76-29a5-4cff-aec6-cd9ea680d4c3">
 
-- [ ] Complete [Assignment 1](https://docs.google.com/document/d/1mCWKiYH2ECsEWKuqoyuWFXsW-023crRAwwxGYzpZg4E/edit?usp=sharing) and mark when complete 
+- [x] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_2/assignment_1/README.md) and mark when complete 
 
 
 

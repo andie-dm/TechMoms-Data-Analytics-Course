@@ -1,4 +1,4 @@
-# Introduction to Data Analytics 
+# Data Analytics Foundations
 
 **Objective:**  
 To provide an overview of data analytics, introduce different roles within the data field, and equip participants with fundamental skills in data analysis and visualization. By the end of the session, participants will understand the importance of data literacy as a life skill and be able to perform basic data analysis.
@@ -10,42 +10,66 @@ To provide an overview of data analytics, introduce different roles within the d
 
 ## 1. Welcome and Introduction (60 minutes)
 
-<a href="https://docs.google.com/presentation/d/1UyFVDI2UZFq-g5SdBGFcbLURNKtQsDXa_AuiDUQCmss/edit?usp=sharing">
+<a href="https://docs.google.com/presentation/d/1CauUd8HEzGUD_bZ-PEpwGIISzKvPK_qSCJn7QJPcRHA/edit?usp=sharing">
   <img src="https://github.com/user-attachments/assets/6c7c4e6a-c8f0-4dd5-aa9b-8509b6054223" alt="Data Analytics Week 1 1 - Welcome" width="600"/>
 </a>
 
 _click on the image above to access slides for this module_
 
-- [ ] **Welcome Remarks:**
+- [x] **Welcome Remarks:**
   - Brief introduction to the course and its goals.
   - Acknowledge the unique position of moms returning to work or changing careers and the value of upskilling in data analytics.
   - Setting yourself up for success - Tech Moms Co-founders 
-  - GitHub Orientation 
+  
 
-- [ ] **Icebreaker Activity:**
+- [x] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
 
-## 2. What is Data Analytics? (30 minutes)
+## 2. GitHub Orientation (30 mins)
 
-- [ ] **Definition of Data Analytics:**
+- [x] **How We Will Use GitHub in our Course**
+  - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
+  - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
+  - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
+     
+- [x] **GitHub Assessment**
+  - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
+ 
+----
+
+## 3. Slack Overview (15 mins)
+
+- [x] **Slack Best Practices**
+    - Review of Tech-Moms [Slack Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing)
+    - Link vs Hyperlink vs Remove Link Preview
+    - Practice Activity
+    - Using Slack Markdown
+    - Using Enter
+    - Why is this important?  
+
+-----
+
+## Lunch Break 🌮 (30 minutes)
+
+---
+
+## 4. What is Data Analytics? (15 minutes)
+
+- [x] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
-  - Discuss the role of data analytics in decision-making, problem-solving, and driving business success.
+  - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
 - [ ] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
 - [ ] **Real-Life Examples:**
-  - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life.
+  - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
 
-## Lunch Break 🌮 (45 minutes)
-
----
-
-## 3. Roles in the Data Field (45 minutes)
+## 5. Roles in the Data Field (15 minutes)
 
 - [ ] **Overview of Key Roles:**
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
@@ -59,35 +83,30 @@ _click on the image above to access slides for this module_
 
 ---
 
-## 4. The Ubiquity of Data (20 minutes)
-
-- [ ] **Data is Everywhere:**
-  - Discuss how data is used by everyone, from individuals to large corporations.
-  - Examples of data-driven decisions in daily life: grocery shopping based on budget data, choosing a family vacation spot based on past experiences, etc.
-
-- [ ] **Asking the Right Questions:**
-  - Introduce the concept of asking the right questions to analyze data effectively.
-  - Example: Analyzing family spending to identify areas where money can be saved.
-
----
-
-## 5. Introduction to Data Visualizations (45 minutes)
+## 6. Introduction to Data Visualizations (30 minutes)
 
 - [ ] **Overview of Common Visualizations:**
-  - **Pie Chart:** Best for showing proportions or percentages of a whole.
-  - **Bar Chart:** Ideal for comparing different groups or categories.
-  - **Line Chart:** Useful for showing trends over time.
-  - **Scatter Plot:** Best for examining relationships between two variables.
+  - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
+  - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
+  - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
+  - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
 - [ ] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
 - [ ] **Hands-On Activity:**
-  - Participants create simple visualizations using sample data (e.g., family budget data) in Excel or Google Sheets.
+  - Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wx1jsHZEqfdixNXH972T1NU4olafySPUwhrIbJ6sEAY/edit?usp=sharing) Google Sheets or download to use in Excel
+  - Participants create simple visualizations using sample family budget data in Excel or Google Sheets.
+     - Insert Pivot Table (new sheet), drag category to Rows, drag amount to Values. 
+        - This will show you the category by amount. 
+     - Insert Pivot Table (new sheet), drag data to Column, drag amount to Values. Right click on date, scroll to create Pivot data group -> Month.
+        - This will show you the total sum of amount by month. 
+     - Highlight data, insert Chart - try out different ones.
+  - [Example completed spreadsheet](https://docs.google.com/spreadsheets/d/1lIW05vgnTm16NF8w24sCgM_x3EKvqwdKwhORIPXnmOM/edit?gid=762388016#gid=762388016)
 
 ---
 
-## 6. Basic Statistics: Mean, Median, and Mode (30 minutes)
+## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
 - [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
