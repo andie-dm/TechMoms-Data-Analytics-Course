@@ -19,7 +19,7 @@ Video: [Overview, Create a Deep Note Account, & Upload Data](https://www.loom.co
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?**
-   - [ ]  Write a query to count the total number of applications.
+   - [x]  Write a query to count the total number of applications.
    - Example SQL:
     ```
     SELECT
