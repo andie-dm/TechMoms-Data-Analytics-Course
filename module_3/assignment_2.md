@@ -28,7 +28,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
     ```
 
 2. **How many applications were assigned a cohort?**
-   - [ ] Determine how many applicants were successfully assigned to a cohort.
+   - [x] Determine how many applicants were successfully assigned to a cohort.
    - Example SQL: 
    ```
    SELECT 
