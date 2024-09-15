@@ -40,7 +40,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
 
 3. **How many children are supported through Tech Moms programs?**
-   - [ ] Find out the total number of children supported by the Tech Moms programs using the available data.
+   - [x] Find out the total number of children supported by the Tech Moms programs using the available data.
    - Example SQL:
    ```
    SELECT
@@ -51,7 +51,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
    ```
      
 4. **Etc** 
-     - [ ] Answer at least 10 additional questions using SQL
+     - [x] Answer at least 10 additional questions using SQL
 
 ## Step 3: Submission
 - [ ] After completing the analysis, create a [report](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/report.md) in a google doc summarizing your findings.
