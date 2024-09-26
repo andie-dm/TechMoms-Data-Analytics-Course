@@ -67,4 +67,4 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 - [x] Send an email to: data@tech-moms.org with: 
 * a screenshot of the dashboard in the body of an email
 * a hyper link to your dashboard
-* bullet points of your top 3 insights 
+* bullet points of your top 3 insights .
